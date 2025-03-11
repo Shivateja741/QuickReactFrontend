@@ -1,0 +1,5 @@
+{
+    "git.blame.statusBarItem.enabled": false,
+    "git.enabled": true,
+    "git.requireGitUserConfig": true
+}
